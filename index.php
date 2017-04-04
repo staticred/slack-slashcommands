@@ -1,6 +1,6 @@
 <?php
 	
-$apitoken = "IRcdfdRnbZHdGj9arI1kOfw7";
+$apitoken = "";
 	
 	
 // IsItUp service requires a user agent.
